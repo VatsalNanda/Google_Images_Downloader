@@ -7,7 +7,6 @@ import shutil
 from os import listdir, makedirs
 from os.path import isfile, join
 import matplotlib.pyplot as plt
-from tabulate import tabulate
 from PIL import Image
 import glob
 import os
