@@ -13,4 +13,4 @@ pytube==11.0.0
 moviepy==1.0.3
 pydub==0.25.1
 mutagen==1.45.1
-Opencv-python==4.5.3.56
+opencv-python==4.5.3.56
